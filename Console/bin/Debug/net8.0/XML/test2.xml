@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssemblyMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>XMLPlugin</Name>
+  <Namespaces>
+    <NamespaceMetadata>
+      <Name>Services</Name>
+      <Types>
+        <TypeMetadata>
+          <Name>MetadataXml</Name>
+          <Methods>
+            <MethodMetadata>
+              <Name>LoadFrom</Name>
+              <Parameters>
+                <ParameterMetadata>
+                  <Name>filePath</Name>
+                  <Type>String</Type>
+                </ParameterMetadata>
+              </Parameters>
+            </MethodMetadata>
+            <MethodMetadata>
+              <Name>SaveTo</Name>
+              <Parameters>
+                <ParameterMetadata>
+                  <Name>metadata</Name>
+                  <Type>T</Type>
+                </ParameterMetadata>
+                <ParameterMetadata>
+                  <Name>filePath</Name>
+                  <Type>String</Type>
+                </ParameterMetadata>
+              </Parameters>
+            </MethodMetadata>
+            <MethodMetadata>
+              <Name>GetType</Name>
+              <Parameters />
+            </MethodMetadata>
+            <MethodMetadata>
+              <Name>ToString</Name>
+              <Parameters />
+            </MethodMetadata>
+            <MethodMetadata>
+              <Name>Equals</Name>
+              <Parameters>
+                <ParameterMetadata>
+                  <Name>obj</Name>
+                  <Type>Object</Type>
+                </ParameterMetadata>
+              </Parameters>
+            </MethodMetadata>
+            <MethodMetadata>
+              <Name>GetHashCode</Name>
+              <Parameters />
+            </MethodMetadata>
+          </Methods>
+          <Properties />
+        </TypeMetadata>
+      </Types>
+    </NamespaceMetadata>
+  </Namespaces>
+</AssemblyMetadata>

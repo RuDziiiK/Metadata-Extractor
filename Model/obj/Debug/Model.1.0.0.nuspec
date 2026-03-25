@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Model</id>
+    <version>1.0.0</version>
+    <authors>Model</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="System.Composition" version="9.0.0" exclude="Build,Analyzers" />
+        <dependency id="System.Composition.Hosting" version="9.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Fillo\source\repos\MetaData\Model\bin\Debug\net8.0\Model.dll" target="lib\net8.0\Model.dll" />
+  </files>
+</package>

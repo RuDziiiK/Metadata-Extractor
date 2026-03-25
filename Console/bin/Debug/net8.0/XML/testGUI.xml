@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssemblyMetadata xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>FileLoggerPlugin</Name>
+  <Namespaces>
+    <NamespaceMetadata>
+      <Name>Services.Logger</Name>
+      <Types>
+        <TypeMetadata>
+          <Name>FileLogger</Name>
+          <Methods>
+            <MethodMetadata>
+              <Name>LogInfo</Name>
+              <Parameters>
+                <ParameterMetadata>
+                  <Name>message</Name>
+                  <Type>String</Type>
+                </ParameterMetadata>
+              </Parameters>
+            </MethodMetadata>
+            <MethodMetadata>
+              <Name>LogWar</Name>
+              <Parameters>
+                <ParameterMetadata>
+                  <Name>message</Name>
+                  <Type>String</Type>
+                </ParameterMetadata>
+              </Parameters>
+            </MethodMetadata>
+            <MethodMetadata>
+              <Name>LogErr</Name>
+              <Parameters>
+                <ParameterMetadata>
+                  <Name>message</Name>
+                  <Type>String</Type>
+                </ParameterMetadata>
+              </Parameters>
+            </MethodMetadata>
+            <MethodMetadata>
+              <Name>GetType</Name>
+              <Parameters />
+            </MethodMetadata>
+            <MethodMetadata>
+              <Name>ToString</Name>
+              <Parameters />
+            </MethodMetadata>
+            <MethodMetadata>
+              <Name>Equals</Name>
+              <Parameters>
+                <ParameterMetadata>
+                  <Name>obj</Name>
+                  <Type>Object</Type>
+                </ParameterMetadata>
+              </Parameters>
+            </MethodMetadata>
+            <MethodMetadata>
+              <Name>GetHashCode</Name>
+              <Parameters />
+            </MethodMetadata>
+          </Methods>
+          <Properties />
+        </TypeMetadata>
+      </Types>
+    </NamespaceMetadata>
+  </Namespaces>
+</AssemblyMetadata>

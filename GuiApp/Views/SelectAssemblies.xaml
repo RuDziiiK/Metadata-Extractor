@@ -1,0 +1,13 @@
+﻿<Window x:Class="GuiApp.Views.SelectAssemblies"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Wybierz Assembly" Height="300" Width="400">
+    <Window.Icon>
+        <BitmapImage UriSource="C:\Users\Fillo\source\repos\MetaData\Assets\metadataIcon.ico" />
+    </Window.Icon>
+    <Grid>
+        <!-- ListBox, który wyświetla dostępne Assemblies -->
+        <ListBox Name="listBoxAssemblies" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="10,10,10,60"/>
+        <Button Content="OK" HorizontalAlignment="Right" VerticalAlignment="Bottom" Margin="10" Width="75" Click="ButtonOK_Click"/>
+    </Grid>
+</Window>

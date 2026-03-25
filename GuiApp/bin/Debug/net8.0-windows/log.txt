@@ -1,0 +1,38 @@
+2024-12-14 20:02:19 - Błąd MEF: The composition remains unchanged. The changes were rejected because of the following error(s): The composition produced a single composition error. The root cause is provided below. Review the CompositionException.Errors property for more detailed information.
+
+1) No exports were found that match the constraint: 
+	ContractName	ViewModels.MainViewModel
+	RequiredTypeIdentity	ViewModels.MainViewModel
+
+Resulting in: Cannot set import 'GuiApp.Views.MainWindow.ViewModel (ContractName="ViewModels.MainViewModel")' on part 'GuiApp.Views.MainWindow'.
+Element: GuiApp.Views.MainWindow.ViewModel (ContractName="ViewModels.MainViewModel") -->  GuiApp.Views.MainWindow
+
+2024-12-14 20:03:12 - Błąd MEF: The composition remains unchanged. The changes were rejected because of the following error(s): The composition produced a single composition error. The root cause is provided below. Review the CompositionException.Errors property for more detailed information.
+
+1) No exports were found that match the constraint: 
+	ContractName	ViewModels.MainViewModel
+	RequiredTypeIdentity	ViewModels.MainViewModel
+
+Resulting in: Cannot set import 'GuiApp.Views.MainWindow.ViewModel (ContractName="ViewModels.MainViewModel")' on part 'GuiApp.Views.MainWindow'.
+Element: GuiApp.Views.MainWindow.ViewModel (ContractName="ViewModels.MainViewModel") -->  GuiApp.Views.MainWindow
+
+2024-12-14 20:03:50 - Pomyślnie zapisano metadane do XML
+2024-12-14 20:04:11 - Pomyślnie zapisano metadane do XML
+2024-12-14 20:12:55 - Błąd MEF: The composition remains unchanged. The changes were rejected because of the following error(s): The composition produced a single composition error. The root cause is provided below. Review the CompositionException.Errors property for more detailed information.
+
+1) No exports were found that match the constraint: 
+	ContractName	ViewModels.MainViewModel
+	RequiredTypeIdentity	ViewModels.MainViewModel
+
+Resulting in: Cannot set import 'GuiApp.Views.MainWindow.ViewModel (ContractName="ViewModels.MainViewModel")' on part 'GuiApp.Views.MainWindow'.
+Element: GuiApp.Views.MainWindow.ViewModel (ContractName="ViewModels.MainViewModel") -->  GuiApp.Views.MainWindow
+
+2024-12-14 20:15:40 - Błąd MEF: The composition remains unchanged. The changes were rejected because of the following error(s): The composition produced a single composition error. The root cause is provided below. Review the CompositionException.Errors property for more detailed information.
+
+1) No exports were found that match the constraint: 
+	ContractName	ViewModels.MainViewModel
+	RequiredTypeIdentity	ViewModels.MainViewModel
+
+Resulting in: Cannot set import 'GuiApp.Views.MainWindow.ViewModel (ContractName="ViewModels.MainViewModel")' on part 'GuiApp.Views.MainWindow'.
+Element: GuiApp.Views.MainWindow.ViewModel (ContractName="ViewModels.MainViewModel") -->  GuiApp.Views.MainWindow
+

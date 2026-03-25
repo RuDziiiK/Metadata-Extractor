@@ -1,0 +1,3 @@
+C:\Users\Fillo\source\repos\MetaData\Console\bin\Debug\net8.0\Console.dll
+C:\Users\Fillo\Desktop\XML\testconsole.xml
+

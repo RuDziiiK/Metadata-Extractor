@@ -1,0 +1,12 @@
+C:\Users\Fillo\source\repos\MetaData\Model\bin\Debug\net8.0\Model.deps.json
+C:\Users\Fillo\source\repos\MetaData\Model\bin\Debug\net8.0\Model.dll
+C:\Users\Fillo\source\repos\MetaData\Model\bin\Debug\net8.0\Model.pdb
+C:\Users\Fillo\source\repos\MetaData\Model\obj\Debug\net8.0\Model.csproj.AssemblyReference.cache
+C:\Users\Fillo\source\repos\MetaData\Model\obj\Debug\net8.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fillo\source\repos\MetaData\Model\obj\Debug\net8.0\Model.AssemblyInfoInputs.cache
+C:\Users\Fillo\source\repos\MetaData\Model\obj\Debug\net8.0\Model.AssemblyInfo.cs
+C:\Users\Fillo\source\repos\MetaData\Model\obj\Debug\net8.0\Model.csproj.CoreCompileInputs.cache
+C:\Users\Fillo\source\repos\MetaData\Model\obj\Debug\net8.0\Model.dll
+C:\Users\Fillo\source\repos\MetaData\Model\obj\Debug\net8.0\refint\Model.dll
+C:\Users\Fillo\source\repos\MetaData\Model\obj\Debug\net8.0\Model.pdb
+C:\Users\Fillo\source\repos\MetaData\Model\obj\Debug\net8.0\ref\Model.dll

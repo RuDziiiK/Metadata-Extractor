@@ -1,0 +1,8 @@
+14.01.2025 10:45:38 [INFO] Przełączono na logger: FileLogger
+14.01.2025 10:45:41 [INFO] Wybrano Plugin DLL
+14.01.2025 10:52:35 [INFO]                   
+14.01.2025 10:52:35 [INFO]                   
+14.01.2025 10:52:35 [INFO]   Start CONSOLEAPP.
+14.01.2025 10:52:37 [INFO] Wybrano Plugin DLL
+14.01.2025 10:52:51 [INFO] Wczytano metadane z: C:\Users\Fillo\source\repos\MetaData\Console\bin\Debug\net8.0\Console.dll
+14.01.2025 10:52:51 [WARN] Typ <>c nie zawiera żadnych właściwości.
